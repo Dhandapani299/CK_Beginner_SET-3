@@ -7,7 +7,7 @@ public class Arithi
 	public static void main(String args[])
 		{
 		 Scanner s = new Scanner(System.in);
-		 System.out.println("Enter the  number");
+		 System.out.println("Enter the three number");
 		 double AP ;
 		 int a=  s.nextInt();
 		 int n= s.nextInt();

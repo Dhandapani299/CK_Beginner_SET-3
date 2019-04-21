@@ -6,10 +6,10 @@ public static void main(String args[]){
 
 try (Scanner scanner = new Scanner(System.in)) {
     System.out.println(" input :Enter an integer : ");
-    if (scanner.hasNextInt()) {
+    if (scanner.hasNextDouble()) {
         System.out.println("output :yes");
     } else {
-        System.out.println("The input is not an integer");
+        System.out.println("output : no");
     }
 }
 }

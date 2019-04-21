@@ -1,6 +1,6 @@
 import java.io.*;
 import java.util.Scanner;
-public class Arr {
+public class index {
  
  
 	public static void main(String[] args){
@@ -20,7 +20,7 @@ public class Arr {
 		
 		for (int i = 0; i < arrayOfNames.length; i++) {
 			
-		        System.out.print(arrayOfNames[i] + i + "\n" );
+		        System.out.print(arrayOfNames[i] +" "+i + "\n" );
 		}
 		  
  
